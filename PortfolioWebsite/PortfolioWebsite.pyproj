@@ -41,6 +41,7 @@
     <Folder Include="PortfolioWebsite\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="PortfolioWebsite\Procfile.txt" />
     <Content Include="requirements.txt" />
     <Content Include="PortfolioWebsite\static\content\bootstrap.css" />
     <Content Include="PortfolioWebsite\static\content\bootstrap.min.css" />
